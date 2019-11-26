@@ -1,0 +1,11 @@
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\QuartzLesson1App.exe.config
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\QuartzLesson1App.exe
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\QuartzLesson1App.pdb
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\Quartz.dll
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\Quartz.pdb
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\bin\Debug\Quartz.xml
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\obj\Debug\QuartzLesson1App.csprojAssemblyReference.cache
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\obj\Debug\QuartzLesson1App.csproj.CoreCompileInputs.cache
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\obj\Debug\QuartzLesson1App.csproj.CopyComplete
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\obj\Debug\QuartzLesson1App.exe
+C:\Users\tumelom\source\repos\QuartzLesson1\QuartzLesson1App\obj\Debug\QuartzLesson1App.pdb
